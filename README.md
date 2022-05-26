@@ -1,5 +1,5 @@
 
 Docuement-Scanner
 
-USAGE
+USAGE:
 python scan.py --image images/page.jpg
