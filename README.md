@@ -1,5 +1,5 @@
 
-Docuement-Scanner
+Docuement-Scanner using openCv
 
 USAGE:
 python scan.py --image images/page.jpg
